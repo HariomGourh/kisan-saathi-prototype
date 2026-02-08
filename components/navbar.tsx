@@ -22,7 +22,7 @@ export function Navbar() {
             <Leaf className="h-5 w-5 text-primary-foreground" />
           </div>
           <span className="text-xl font-bold tracking-tight text-foreground">
-            AgriSmart
+            Kisan-Saathi
           </span>
         </Link>
         <ul className="flex items-center gap-1">
