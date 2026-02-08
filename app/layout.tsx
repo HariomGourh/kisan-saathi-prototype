@@ -12,7 +12,7 @@ const _merriweather = Merriweather({
 });
 
 export const metadata: Metadata = {
-  title: "AgriSmart - AI-Driven Smart Agriculture System",
+  title: "Kisan-Saathi - AI-Driven Smart Agriculture System",
   description:
     "Predict crop yields and detect crop diseases using AI-powered tools. Advisory support for farmers.",
 };
